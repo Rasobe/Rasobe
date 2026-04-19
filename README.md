@@ -1,16 +1,23 @@
-## Hi there 👋
+# Raúl Solano Berdiel
 
-<!--
-**Rasobe/Rasobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer · React · TypeScript · Mendix
 
-Here are some ideas to get you started:
+2.5 years building real products in logistics, traceability, smart cities and e-commerce.
+Currently working at Movicoders (Spain), open to new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Frontend:** React · TypeScript · MUI · React Hook Form · Zod · React Native  
+**Architecture:** Hexagonal Architecture · i18n · ESLint · Husky  
+**Low-Code:** Mendix (Certified)  
+**Backend:** Bun · Spring Boot · Kotlin  
+**Mobile:** Flutter · React Native  
+
+## Projects
+
+- 🗞️ [DevLog](https://github.com/Rasobe/devlog) — Publication platform for developers. React · TypeScript · Bun
+- 💰 [Finance Manager](https://github.com/Rasobe/finance_manager_mobile) — Mobile app for Android & iOS. Flutter · Dart · Spring Boot
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/raúl-solano-berdiel-a45499264) · rasoberdiel3@gmail.com
