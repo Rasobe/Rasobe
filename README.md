@@ -2,7 +2,7 @@
 
 Frontend Developer · React · TypeScript · Mendix
 
-2.5 years building real products in logistics, traceability, smart cities and e-commerce.
+3 years building real products in logistics, traceability, smart cities and e-commerce.
 Currently working at Movicoders (Spain), open to new opportunities.
 
 ## Stack
