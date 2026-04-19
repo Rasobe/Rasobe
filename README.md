@@ -21,4 +21,4 @@ Currently working at Movicoders (Spain), open to new opportunities.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/raúl-solano-berdiel-a45499264) · rasoberdiel3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/raul-solano-berdiel) · rasoberdiel3@gmail.com
