@@ -16,7 +16,7 @@ Currently working at Movicoders (Spain), open to new opportunities.
 ## Projects
 
 - 🗞️ [DevLog](https://github.com/Rasobe/devlog) — Publication platform for developers. React · TypeScript · Bun
-- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6-frontend) — Official esports team website. Astro · TypeScript
+- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6-web) — Official esports team website. Astro · TypeScript
 - 💰 [Finance Manager](https://github.com/Rasobe/finance_manager_mobile) — Mobile app for Android & iOS. Flutter · Dart · Spring Boot
 
 ## Contact
