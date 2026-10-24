@@ -16,7 +16,7 @@ Currently at Movicoders and open to remote opportunities.
 
 ## Projects
 
-- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6esports-web): official website of the esports club I run. Next.js, Tailwind and TypeScript.
+- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6esports-web): official website of the esports club I run. Astro, TypeScript and SCSS.
 - 🗞️ [DevLog](https://github.com/Rasobe/devlog): a platform for developers to publish and discover articles. React, TypeScript and Bun. *(work in progress)*
 
 ## Contact
