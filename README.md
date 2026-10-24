@@ -1,24 +1,24 @@
-# Raúl Solano Berdiel
+# Hi, I'm Raúl 👋
 
-Frontend Developer · React · TypeScript · Mendix
+Frontend developer based in Spain. For the last three years I've been building web and mobile apps with React and React Native for logistics, industrial and public sector clients.
 
-3 years building real products in logistics, traceability, smart cities and e-commerce.
-Currently working at Movicoders (Spain), open to new opportunities.
+I care about interfaces that feel simple to use and code that's easy to maintain for whoever comes next. Day to day I work with hexagonal architecture, complex forms with React Hook Form and Zod, and end to end tests with Playwright.
 
-## Stack
+Currently at Movicoders and open to remote opportunities.
 
-**Frontend:** React · TypeScript · MUI · React Hook Form · Zod · React Native  
-**Architecture:** Hexagonal Architecture · i18n · ESLint · Husky  
-**Low-Code:** Mendix (Certified)  
-**Backend:** Bun · Spring Boot · Kotlin  
-**Mobile:** Flutter · React Native  
+## Tech I use
+
+**Frontend:** React, React Native, TypeScript, Next.js, TanStack Query, MUI, Tailwind  
+**Testing:** Playwright, Vitest, Jest  
+**Architecture:** Hexagonal architecture, i18n, ESLint, Husky  
+**Backend:** Bun, Kotlin, Spring Boot  
+**Also:** Mendix (certified developer)
 
 ## Projects
 
-- 🗞️ [DevLog](https://github.com/Rasobe/devlog) — Publication platform for developers. React · TypeScript · Bun
-- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6-web) — Official esports team website. Astro · TypeScript
-- 💰 [Finance Manager](https://github.com/Rasobe/finance_manager_mobile) — Mobile app for Android & iOS. Flutter · Dart · Spring Boot
+- 🎮 [Crow 6 eSports](https://github.com/Rasobe/crow6esports-web): official website of the esports club I run. Next.js, Tailwind and TypeScript.
+- 🗞️ [DevLog](https://github.com/Rasobe/devlog): a platform for developers to publish and discover articles. React, TypeScript and Bun. *(work in progress)*
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/raul-solano-berdiel) · rasoberdiel3@gmail.com
+[LinkedIn](https://www.linkedin.com/in/raul-solano-berdiel/) · raul.solano.berdiel@gmail.com
